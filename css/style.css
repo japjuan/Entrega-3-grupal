@@ -1,0 +1,21 @@
+main {
+    min-height: calc(100vh - 160px);
+  }
+
+  .card-body{
+    height:200px;
+    overflow-y: auto;
+  }
+
+  .card-text.a{
+    font-size: small;
+  }
+
+  .card{
+    width: 18rem;
+    margin: 5px;
+  }
+
+  .card-img-top{
+    height : 150px
+  }
